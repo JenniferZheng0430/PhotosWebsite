@@ -1,4 +1,4 @@
-var photoCollectionTarget = $('#photo-colletion')
+var photoCollectionTarget = $('#photo-collection')
 //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 var data = photoCollection
 
