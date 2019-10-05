@@ -70,7 +70,12 @@
 .jumbotron .container {
   max-width: 40rem;
 }
-
+.slective-photo-title{
+  padding:30px;
+  display:flex;
+  justify-content: center;
+  align-self: center;
+}
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
