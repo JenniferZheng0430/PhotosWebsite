@@ -1,4 +1,5 @@
-var photoCollection = [
+//data: only selective photos
+var selectivePhoto = [
     {
         id:1,
         src: "assets/photos/pic1.jpg",

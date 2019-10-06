@@ -1,6 +1,7 @@
-var photoCollectionTarget = $('#photo-collection')
+//script for selective photos
+var selectivePhotoTarget = $('#selective-photo')
 //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-var data = photoCollection
+var data = selectivePhoto
 
 console.log(data)
  for (i=0;i<data.length;i++){
@@ -34,7 +35,7 @@ var makeCard = '<div class="card mb-4 shadow-sm">'+makeImage+makeBody+'</div>'
 var makeCol = '<div class="col-md-4">'+makeCard+'</div>'
 
 console.log(makeCol)
-photoCollectionTarget.append(makeCol)
+selectivePhotoTarget.append(makeCol)
 
 
  }
