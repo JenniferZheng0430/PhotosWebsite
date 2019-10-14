@@ -52,7 +52,8 @@
     max-width: 40rem;
   }
   .photo-title{
-    padding:35px;
+    margin-top: 50px;
+    margin-bottom:50px;
     display:flex;
     justify-content: center;
     align-self: center;
@@ -71,6 +72,26 @@
     align-self: center;
 }  
 
+.app-picture{
+    width:130px;
+    height:130px;
+    margin:20px;
+    border-radius: 10%;
+    box-shadow: 3px 3px 3px gray;
+}
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
   
   
   

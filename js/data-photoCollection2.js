@@ -21,7 +21,7 @@ var photoCollection = [
     {  
         id:3,
         src: "assets/photos/p3.jpg",
-        where:"Minesota",
+        where:"Minnesota",
         year:2018,
         month:7,
         title:"Baseball Game",
@@ -30,7 +30,7 @@ var photoCollection = [
     {  
         id:4,
         src: "assets/photos/p4.jpg",
-        where:"Minesota",
+        where:"Minnesota",
         year:2018,
         month:7,
         title:"A corner of Carleton College",

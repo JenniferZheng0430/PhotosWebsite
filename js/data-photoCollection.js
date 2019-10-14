@@ -21,7 +21,7 @@ var selectivePhoto = [
     {  
         id:3,
         src: "assets/photos/pic3.jpg",
-        where:"Minesota",
+        where:"Minnesota",
         year:2018,
         month:7,
         title:"A special corner of Carleton College",
@@ -39,7 +39,7 @@ var selectivePhoto = [
     {  
         id:5,
         src: "assets/photos/pic5.jpg",
-        where:"Minesota",
+        where:"Minnesota",
         year:2018,
         month:7,
         title:"feeble street lamp ",
