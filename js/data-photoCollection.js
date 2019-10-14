@@ -3,7 +3,7 @@ var selectivePhoto = [
     {
         id:1,
         src: "assets/photos/pic1.jpg",
-        where:"uytuyt state",
+        where:"Aba state",
         year:2017,
         month:7,
         title:"Lost Pedestrain",
@@ -48,7 +48,7 @@ var selectivePhoto = [
     {  
         id:6,
         src: "assets/photos/pic6.jpg",
-        where:"九曲十八弯",
+        where:"Jiuqu River",
         year:2016,
         month:7,
         title:"Farewell",

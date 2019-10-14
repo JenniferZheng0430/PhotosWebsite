@@ -86,7 +86,7 @@ const showOverlay = () => {
         typeWriter(txt, id, speed)
     }, 2000)
     setTimeout(function(){
-        txt = 'Hit on the closing botton to begin!'
+        txt = 'Hit on the X botton to begin!'
         id = "popup-text-p3"
         speed = 20
         typeWriter(txt, id, speed)
