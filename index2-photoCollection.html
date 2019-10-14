@@ -18,22 +18,32 @@
 
   <body>
     <header>
-      
-      <div class="navbar navbar-dark bg-dark shadow-sm">
-        <div class="container d-flex justify-content-between">
-          <a href="#" class="navbar-brand d-flex align-items-center">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path><circle cx="12" cy="13" r="4"></circle></svg>
-            <strong onclick="location.href='index-photoCollection.html'">Selective Photo</strong>
-          </a>
+      <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+        <div><img src="JBG.jpg" style="width:30px;height:30px; margin:10px; border-radius: 20%;" class="d-inline-block align-top"></div>
+        <strong class="navbar-brand" href="#" style="color: white;">Jennifer's photos</strong>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="indexMain.html" style="color: white;">Home<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="index-appsGames.html" style="color: white;">Apps & Games</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="index-stats.html" style="color: white;">Applied Stats</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="index-photoCollection.html" style="color: white;">Selective Photos</a>
+            </li>
+          </ul>
         </div>
-      </div>
+      </nav>
     </header>
          
   <main role="main">
-        <div class="audio-container">
-          <audio class="audio" src="assets/music/song1.mp3" controls autoplay></audio>
-        </div>  
-
              <!--  Photo Collection -->
           <div class="album py-5 bg-light">
               <div class="container">
