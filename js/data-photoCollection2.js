@@ -155,7 +155,7 @@ var photoCollection = [
     },
     {  
         id:19,
-        src: "assets/photos/p16.jpg",
+        src: "assets/photos/p19.jpg",
         where:"Jiuzhai",
         year:2014,
         month:7,
@@ -214,6 +214,195 @@ var photoCollection = [
         year:2019,
         month:7,
         title:"Special design in a restaurant",
+        description:""
+    },
+    {  
+        id:27,
+        src: "assets/photos/p27.jpg",
+        where:"Deyang",
+        year:2018,
+        month:4,
+        title:"Diary",
+        description:""
+    },
+    {  
+        id:28,
+        src: "assets/photos/p28.jpg",
+        where:"Deyang",
+        year:2017,
+        month:7,
+        title:"Summer Boat",
+        description:""
+    },
+    {  
+        id:29,
+        src: "assets/photos/p30.jpg",
+        where:"Deyang",
+        year:2018,
+        month:7,
+        title:"lotus and leaves",
+        description:""
+    },
+    {  
+        id:30,
+        src: "assets/photos/p32.jpg",
+        where:"Qingdao",
+        year:2019,
+        month:7,
+        title:"Peep show in mizzle",
+        description:""
+    },
+    {  
+        id:31,
+        src: "assets/photos/p34.jpg",
+        where:"Qingdao",
+        year:2019,
+        month:7,
+        title:"Cultural Revolution Collection",
+        description:""
+    },
+    {  
+        id:32,
+        src: "assets/photos/p37.jpg",
+        where:"Qingdao",
+        year:2019,
+        month:7,
+        title:"Cultural Revolution Collection",
+        description:""
+    },
+    {  
+        id:33,
+        src: "assets/photos/p38.jpg",
+        where:"Qingdao",
+        year:2019,
+        month:7,
+        title:"Cultural Revolution Collection",
+        description:""
+    },
+    {  
+        id:34,
+        src: "assets/photos/p39.jpg",
+        where:"Qingdao",
+        year:2019,
+        month:7,
+        title:"Cultural Revolution Collection",
+        description:""
+    },
+    {  
+        id:35,
+        src: "assets/photos/p41.jpg",
+        where:"Qingdao",
+        year:2019,
+        month:7,
+        title:"Cultural Revolution Collection",
+        description:""
+    },
+    {  
+        id:36,
+        src: "assets/photos/p42.jpeg",
+        where:"Guanghan Sanxing Museum",
+        year:2018,
+        month:4,
+        title:"Bronze Sculpture",
+        description:""
+    },
+    {  
+        id:37,
+        src: "assets/photos/p43.jpeg",
+        where:"Deyang",
+        year:2019,
+        month:8,
+        title:"Old Woman",
+        description:""
+    },
+    {  
+        id:38,
+        src: "assets/photos/p44.jpeg",
+        where:"Deyang",
+        year:2019,
+        month:9,
+        title:"My painting",
+        description:""
+    },
+    {  
+        id:39,
+        src: "assets/photos/p45.jpeg",
+        where:"Train Station",
+        year:2019,
+        month:4,
+        title:"Lonely Man",
+        description:""
+    },
+    {  
+        id:40,
+        src: "assets/photos/p46.jpeg",
+        where:"Shike Park",
+        year:2019,
+        month:9,
+        title:"Dancing old women",
+        description:""
+    },
+    {  
+        id:41,
+        src: "assets/photos/p47.jpeg",
+        where:"Art Studio",
+        year:2019,
+        month:10,
+        title:"My painting",
+        description:""
+    },
+    {  
+        id:42,
+        src: "assets/photos/p48.jpeg",
+        where:"Shike Park",
+        year:2019,
+        month:8,
+        title:"acrobatics",
+        description:""
+    },
+    {  
+        id:43,
+        src: "assets/photos/p49.jpeg",
+        where:"Art Studio",
+        year:2019,
+        month:9,
+        title:"My painting",
+        description:""
+    },
+    {  
+        id:44,
+        src: "assets/photos/p50.jpeg",
+        where:"Shike Park",
+        year:2019,
+        month:7,
+        title:"Old Flute man",
+        description:""
+    },
+    {  
+        id:45,
+        src: "assets/photos/p51.jpeg",
+        where:"Guanghan Sanxing Museum",
+        year:2018,
+        month:4,
+        title:"Bronze Sculpture",
+        description:""
+    },
+    {  
+        id:46,
+        src: "assets/photos/p52.jpeg",
+        where:"Deyang",
+        year:2017,
+        month:4,
+        title:"Fishing man",
+        description:""
+    },
+    {  
+        id:47,
+        src: "assets/photos/p53.jpeg",
+        where:"Guanghan Sanxing Museum",
+        year:2018,
+        month:4,
+        title:"Bronze Sculpture",
         description:""
     },
      ]
