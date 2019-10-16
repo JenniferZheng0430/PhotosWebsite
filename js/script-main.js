@@ -44,7 +44,7 @@ const showOverlay = () => {
         $('#popup-text').append($('<p id="popup-text-p3" style="font-size:8px; margin-top:20px; float: right"></p>'))
     }, 500)
     setTimeout(function(){
-        txt = 'I coded this website to show apps, games, applied stats poster, and photography website I made. It also includes what I have learned from these processes. I hope you can see more about me from this website!'
+        txt = 'I coded this website using Javascript to show my projects and my hobbies. It includes my photography collection, coding projects, statistics research, and resume. I wish you can see some of my personalities and passions in this website. Hope you enjoy it!'
         id = "popup-text-p1"
         speed = 20
         typeWriter(txt, id, speed)
@@ -54,7 +54,7 @@ const showOverlay = () => {
         id = "popup-text-p3"
         speed = 20
         typeWriter(txt, id, speed)
-    }, 6000)
+    }, 8000)
 };
  
 setTimeout(showOverlay, 1000);
