@@ -32,7 +32,7 @@ const showOverlay = () => {
     overlay.classList.add('active')
 
     $('#popup-text').append($('<h2 id = "popup-text-h" style="text-align: center"></h2>'))
-    let txt = 'Welcome to my portfolio!'
+    let txt = 'Welcome to my world!'
     let id = 'popup-text-h'
     let speed = 10
     typeWriter(txt, id, speed)
@@ -44,7 +44,7 @@ const showOverlay = () => {
         $('#popup-text').append($('<p id="popup-text-p3" style="font-size:8px; margin-top:20px; float: right"></p>'))
     }, 500)
     setTimeout(function(){
-        txt = 'I coded this website using Html and Javascript to show my projects and my hobbies. After seeing this website, I hope to give you some ideas of what kind of person I am and what I am passionate about. Hope you enjoy it!'
+        txt = 'Hi! I am Jennifer. Nice to meet you! I coded this website using Html and Javascript to show things I am interested in. After seeing this website, I hope to give you some ideas of what kind of person I am and what I am passionate about. Hope you enjoy it!'
         id = "popup-text-p1"
         speed = 20
         typeWriter(txt, id, speed)
