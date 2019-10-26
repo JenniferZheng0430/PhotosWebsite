@@ -6,7 +6,7 @@
     padding-top: var(--jumbotron-padding-y);
     padding-bottom: var(--jumbotron-padding-y);
     margin-bottom: 0;
-    background: url(/assets/bgPhoto/bgPhoto的副本.JPG) no-repeat center center fixed;
+    background: url(/assets/bgPhoto/bgPhoto.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 100%;
     overflow: hidden;

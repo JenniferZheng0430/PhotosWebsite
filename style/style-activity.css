@@ -1,0 +1,106 @@
+:root {
+    --jumbotron-padding-y: 3rem;
+  }
+.jumbotron{
+    padding-top: var(--jumbotron-padding-y);
+    padding-bottom: var(--jumbotron-padding-y);
+    margin-bottom: 0;
+    background: url(/assets/activityPic/tutoring.JPG) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+  }
+  @media (min-width: 800px) {
+    .jumbotron {
+          padding-top: calc(var(--jumbotron-padding-y) * 2);
+          padding-bottom: calc(var(--jumbotron-padding-y) * 2);
+        }
+      }
+      
+      .jumbotron p:last-child {
+        margin-bottom: 0;
+      }
+      
+      .jumbotron-heading {
+        font-weight: 300;
+      }
+      
+      .jumbotron .container {
+        max-width: 40rem;
+      }
+.title{
+      padding-top: 100px;
+      margin-left: 20px;
+  }
+.text-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .photo-title{
+    margin-top: 50px;
+    margin-bottom:50px;
+    display:flex;
+    justify-content: center;
+    align-self: center;
+  }
+  footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  footer p {
+    margin-bottom: .25rem;
+  }
+.card-container{
+    display:flex;
+    justify-content: center;
+    align-self: center;
+}  
+
+.app-picture{
+    width:130px;
+    height:130px;
+    margin:20px;
+    border-radius: 10%;
+    box-shadow: 3px 3px 3px gray;
+}
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+  
+.typewriter h4 {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
