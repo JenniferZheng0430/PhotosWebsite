@@ -61,7 +61,7 @@
     align-self: center;
 }  
 
-.app-picture{
+.activity-picture{
     width:130px;
     height:130px;
     margin:20px;
@@ -103,4 +103,9 @@
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: orange; }
+}
+
+.activity-picture:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
 }
