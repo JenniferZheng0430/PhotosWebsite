@@ -98,7 +98,3 @@
   filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
-.poster-pic{
-  border-radius: 10%;
-  box-shadow: 15px 15px 15px gray;
-}
