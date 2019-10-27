@@ -2,7 +2,7 @@
 var selectivePhoto = [
     {
         id:48,
-        src: "assets/photos/pic1.jpg",
+        src: "photos/pic1.jpg",
         where:"Aba state",
         year:2017,
         month:7,
@@ -11,7 +11,7 @@ var selectivePhoto = [
     },
     {  
         id:50,
-        src: "assets/photos/pic3.jpg",
+        src: "photos/pic3.jpg",
         where:"Minnesota",
         year:2018,
         month:7,
@@ -20,7 +20,7 @@ var selectivePhoto = [
     },
     {  
         id:51,
-        src: "assets/photos/pic4.jpg",
+        src: "photos/pic4.jpg",
         where:"Aba State",
         year:2017,
         month:7,
@@ -29,7 +29,7 @@ var selectivePhoto = [
     },
     {  
         id:52,
-        src: "assets/photos/pic5.jpg",
+        src: "photos/pic5.jpg",
         where:"Minnesota",
         year:2018,
         month:7,
@@ -38,7 +38,7 @@ var selectivePhoto = [
     },
     {  
         id:53,
-        src: "assets/photos/pic6.jpg",
+        src: "photos/pic6.jpg",
         where:"Jiuqu River",
         year:2016,
         month:7,
@@ -47,7 +47,7 @@ var selectivePhoto = [
     },
     {  
         id:54,
-        src: "assets/photos/pic7.jpg",
+        src: "photos/pic7.jpg",
         where:"Deyang",
         year:2015,
         month:3,
@@ -56,7 +56,7 @@ var selectivePhoto = [
     },
     {  
         id:55,
-        src: "assets/photos/pic8.jpg",
+        src: "photos/pic8.jpg",
         where:"Deyang",
         year:2015,
         month:3,
@@ -65,7 +65,7 @@ var selectivePhoto = [
     },
     {  
         id:56,
-        src: "assets/photos/pic9.jpg",
+        src: "photos/pic9.jpg",
         where:"Deyang",
         year:2018,
         month:4,
@@ -74,7 +74,7 @@ var selectivePhoto = [
     },
     {
         id:1,
-        src: "assets/photos/p1.jpg",
+        src: "photos/p1.jpg",
         where:"Deyang",
         year:2019,
         month:1,
@@ -83,7 +83,7 @@ var selectivePhoto = [
     },
     {   
         id:2,
-        src: "assets/photos/p2.jpg",
+        src: "photos/p2.jpg",
         where:"Deyang",
         year:2019,
         month:1,
@@ -92,7 +92,7 @@ var selectivePhoto = [
     },
     {  
         id:3,
-        src: "assets/photos/p3.jpg",
+        src: "photos/p3.jpg",
         where:"Minnesota",
         year:2018,
         month:7,
@@ -101,7 +101,7 @@ var selectivePhoto = [
     },
     {  
         id:9,
-        src: "assets/photos/p9.jpg",
+        src: "photos/p9.jpg",
         where:"Deyang",
         year:2018,
         month:4,
@@ -110,7 +110,7 @@ var selectivePhoto = [
     },
     {  
         id:10,
-        src: "assets/photos/p10.jpg",
+        src: "photos/p10.jpg",
         where:"Deyang",
         year:2018,
         month:4,
@@ -119,7 +119,7 @@ var selectivePhoto = [
     },
     {  
         id:12,
-        src: "assets/photos/p12.jpg",
+        src: "photos/p12.jpg",
         where:"Qingdao",
         year:2019,
         month:7,
@@ -128,7 +128,7 @@ var selectivePhoto = [
     },
     {  
         id:13,
-        src: "assets/photos/p13.jpg",
+        src: "photos/p13.jpg",
         where:"Qingdao",
         year:2019,
         month:7,
@@ -137,7 +137,7 @@ var selectivePhoto = [
     },
     {  
         id:15,
-        src: "assets/photos/p15.jpg",
+        src: "photos/p15.jpg",
         where:"Qingdao",
         year:2019,
         month:7,
@@ -146,7 +146,7 @@ var selectivePhoto = [
     },
     {  
         id:16,
-        src: "assets/photos/p16.jpg",
+        src: "photos/p16.jpg",
         where:"Deyang",
         year:2017,
         month:3,
@@ -155,7 +155,7 @@ var selectivePhoto = [
     },
     {  
         id:18,
-        src: "assets/photos/p18.jpg",
+        src: "photos/p18.jpg",
         where:"Deyang",
         year:2015,
         month:1,
@@ -164,7 +164,7 @@ var selectivePhoto = [
     },
     {  
         id:19,
-        src: "assets/photos/p19.jpg",
+        src: "photos/p19.jpg",
         where:"Jiuzhai",
         year:2014,
         month:7,
@@ -173,7 +173,7 @@ var selectivePhoto = [
     },
     {  
         id:20,
-        src: "assets/photos/p20.jpg",
+        src: "photos/p20.jpg",
         where:"Tibet",
         year:2016,
         month:7,
@@ -182,7 +182,7 @@ var selectivePhoto = [
     },
     {  
         id:21,
-        src: "assets/photos/p21.jpg",
+        src: "photos/p21.jpg",
         where:"Tibet",
         year:2016,
         month:7,
@@ -191,7 +191,7 @@ var selectivePhoto = [
     },
     {  
         id:22,
-        src: "assets/photos/p22.jpg",
+        src: "photos/p22.jpg",
         where:"Tibet",
         year:2016,
         month:7,
@@ -200,7 +200,7 @@ var selectivePhoto = [
     },
     {  
         id:23,
-        src: "assets/photos/p23.jpg",
+        src: "photos/p23.jpg",
         where:"Tibet",
         year:2016,
         month:7,
@@ -209,7 +209,7 @@ var selectivePhoto = [
     },
     {  
         id:25,
-        src: "assets/photos/p25.jpg",
+        src: "photos/p25.jpg",
         where:"Tibet",
         year:2016,
         month:7,
@@ -218,7 +218,7 @@ var selectivePhoto = [
     },
     {  
         id:26,
-        src: "assets/photos/p26.jpg",
+        src: "photos/p26.jpg",
         where:"Qingdao",
         year:2019,
         month:7,
@@ -227,7 +227,7 @@ var selectivePhoto = [
     },
     {  
         id:28,
-        src: "assets/photos/p28.jpg",
+        src: "photos/p28.jpg",
         where:"Deyang",
         year:2017,
         month:7,
@@ -236,7 +236,7 @@ var selectivePhoto = [
     },
     {  
         id:29,
-        src: "assets/photos/p30.jpg",
+        src: "photos/p30.jpg",
         where:"Deyang",
         year:2018,
         month:7,
@@ -245,7 +245,7 @@ var selectivePhoto = [
     },
     {  
         id:30,
-        src: "assets/photos/p32.jpg",
+        src: "photos/p32.jpg",
         where:"Qingdao",
         year:2019,
         month:7,
@@ -254,7 +254,7 @@ var selectivePhoto = [
     },
     {  
         id:31,
-        src: "assets/photos/p34.jpg",
+        src: "photos/p34.jpg",
         where:"Qingdao",
         year:2019,
         month:7,
@@ -263,7 +263,7 @@ var selectivePhoto = [
     },
     {  
         id:32,
-        src: "assets/photos/p37.jpg",
+        src: "photos/p37.jpg",
         where:"Qingdao",
         year:2019,
         month:7,
@@ -272,7 +272,7 @@ var selectivePhoto = [
     },
     {  
         id:37,
-        src: "assets/photos/p43.jpeg",
+        src: "photos/p43.jpeg",
         where:"Deyang",
         year:2019,
         month:8,
@@ -281,7 +281,7 @@ var selectivePhoto = [
     },
     {  
         id:39,
-        src: "assets/photos/p45.jpeg",
+        src: "photos/p45.jpeg",
         where:"Train Station",
         year:2019,
         month:4,
@@ -290,7 +290,7 @@ var selectivePhoto = [
     },
     {  
         id:40,
-        src: "assets/photos/p46.jpeg",
+        src: "photos/p46.jpeg",
         where:"Shike Park",
         year:2019,
         month:9,
@@ -299,7 +299,7 @@ var selectivePhoto = [
     },
     {  
         id:42,
-        src: "assets/photos/p48.jpeg",
+        src: "photos/p48.jpeg",
         where:"Shike Park",
         year:2019,
         month:8,
@@ -308,7 +308,7 @@ var selectivePhoto = [
     },
     {  
         id:44,
-        src: "assets/photos/p50.jpeg",
+        src: "photos/p50.jpeg",
         where:"Shike Park",
         year:2019,
         month:7,
@@ -317,7 +317,7 @@ var selectivePhoto = [
     },
     {  
         id:46,
-        src: "assets/photos/p52.jpeg",
+        src: "photos/p52.jpeg",
         where:"Deyang",
         year:2017,
         month:4,
