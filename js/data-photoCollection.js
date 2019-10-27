@@ -9,15 +9,6 @@ var selectivePhoto = [
         title:"Lost Pedestrain",
         description:""
     },
-    {   
-        id:49,
-        src: "assets/photos/pic2.jpg",
-        where:"Deyang",
-        year:2018,
-        month:4,
-        title:"My Birthday date",
-        description:""
-    },
     {  
         id:50,
         src: "assets/photos/pic3.jpg",
@@ -109,51 +100,6 @@ var selectivePhoto = [
         description:""
     },
     {  
-        id:4,
-        src: "assets/photos/p4.jpg",
-        where:"Minnesota",
-        year:2018,
-        month:7,
-        title:"A corner of Carleton College",
-        description:""
-    },
-    {  
-        id:5,
-        src: "assets/photos/p5.jpg",
-        where:"Dyang",
-        year:2017,
-        month:5,
-        title:"Light in the night",
-        description:""
-    },
-    {  
-        id:6,
-        src: "assets/photos/p6.jpg",
-        where:"Deyang",
-        year:2019,
-        month:7,
-        title:"Sunset on my way to running",
-        description:""
-    },
-    {  
-        id:7,
-        src: "assets/photos/p7.jpg",
-        where:"Deyang",
-        year:2019,
-        month:7,
-        title:"Trees",
-        description:""
-    },
-    {  
-        id:8,
-        src: "assets/photos/p8.jpg",
-        where:"Deyang",
-        year:2015,
-        month:3,
-        title:"Trees",
-        description:""
-    },
-    {  
         id:9,
         src: "assets/photos/p9.jpg",
         where:"Deyang",
@@ -169,15 +115,6 @@ var selectivePhoto = [
         year:2018,
         month:4,
         title:"twisted trees",
-        description:""
-    },
-    {  
-        id:11,
-        src: "assets/photos/p11.jpg",
-        where:"Qingdao",
-        year:2019,
-        month:7,
-        title:"Xinghai Square",
         description:""
     },
     {  
@@ -214,15 +151,6 @@ var selectivePhoto = [
         year:2017,
         month:3,
         title:"See sunrise through glass",
-        description:""
-    },
-    {  
-        id:17,
-        src: "assets/photos/p17.jpg",
-        where:"Deyang",
-        year:2016,
-        month:5,
-        title:"Jin River",
         description:""
     },
     {  
@@ -298,15 +226,6 @@ var selectivePhoto = [
         description:""
     },
     {  
-        id:27,
-        src: "assets/photos/p27.jpg",
-        where:"Deyang",
-        year:2018,
-        month:4,
-        title:"Diary",
-        description:""
-    },
-    {  
         id:28,
         src: "assets/photos/p28.jpg",
         where:"Deyang",
@@ -352,57 +271,12 @@ var selectivePhoto = [
         description:""
     },
     {  
-        id:33,
-        src: "assets/photos/p38.jpg",
-        where:"Qingdao",
-        year:2019,
-        month:7,
-        title:"Cultural Revolution Collection",
-        description:""
-    },
-    {  
-        id:34,
-        src: "assets/photos/p39.jpg",
-        where:"Qingdao",
-        year:2019,
-        month:7,
-        title:"Cultural Revolution Collection",
-        description:""
-    },
-    {  
-        id:35,
-        src: "assets/photos/p41.jpg",
-        where:"Qingdao",
-        year:2019,
-        month:7,
-        title:"Cultural Revolution Collection",
-        description:""
-    },
-    {  
-        id:36,
-        src: "assets/photos/p42.jpeg",
-        where:"Guanghan Sanxing Museum",
-        year:2018,
-        month:4,
-        title:"Bronze Sculpture",
-        description:""
-    },
-    {  
         id:37,
         src: "assets/photos/p43.jpeg",
         where:"Deyang",
         year:2019,
         month:8,
         title:"Old Woman",
-        description:""
-    },
-    {  
-        id:38,
-        src: "assets/photos/p44.jpeg",
-        where:"Deyang",
-        year:2019,
-        month:9,
-        title:"My painting",
         description:""
     },
     {  
@@ -424,30 +298,12 @@ var selectivePhoto = [
         description:""
     },
     {  
-        id:41,
-        src: "assets/photos/p47.jpeg",
-        where:"Art Studio",
-        year:2019,
-        month:10,
-        title:"My painting",
-        description:""
-    },
-    {  
         id:42,
         src: "assets/photos/p48.jpeg",
         where:"Shike Park",
         year:2019,
         month:8,
         title:"acrobatics",
-        description:""
-    },
-    {  
-        id:43,
-        src: "assets/photos/p49.jpeg",
-        where:"Art Studio",
-        year:2019,
-        month:9,
-        title:"My painting",
         description:""
     },
     {  
@@ -460,30 +316,12 @@ var selectivePhoto = [
         description:""
     },
     {  
-        id:45,
-        src: "assets/photos/p51.jpeg",
-        where:"Guanghan Sanxing Museum",
-        year:2018,
-        month:4,
-        title:"Bronze Sculpture",
-        description:""
-    },
-    {  
         id:46,
         src: "assets/photos/p52.jpeg",
         where:"Deyang",
         year:2017,
         month:4,
         title:"Fishing man",
-        description:""
-    },
-    {  
-        id:47,
-        src: "assets/photos/p53.jpeg",
-        where:"Guanghan Sanxing Museum",
-        year:2018,
-        month:4,
-        title:"Bronze Sculpture",
         description:""
     },
      ]
