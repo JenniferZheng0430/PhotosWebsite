@@ -227,7 +227,7 @@ var selectivePhoto = [
     },
     {  
         id:28,
-        src: "photos/p28.jpg",
+        src: "photos/p28.JPG",
         where:"Deyang",
         year:2017,
         month:7,
@@ -236,7 +236,7 @@ var selectivePhoto = [
     },
     {  
         id:29,
-        src: "photos/p30.jpg",
+        src: "photos/p30.JPG",
         where:"Deyang",
         year:2018,
         month:7,
@@ -245,29 +245,11 @@ var selectivePhoto = [
     },
     {  
         id:30,
-        src: "photos/p32.jpg",
+        src: "photos/p32.JPG",
         where:"Qingdao",
         year:2019,
         month:7,
         title:"Peep show in mizzle",
-        description:""
-    },
-    {  
-        id:31,
-        src: "photos/p34.jpg",
-        where:"Qingdao",
-        year:2019,
-        month:7,
-        title:"Cultural Revolution Collection",
-        description:""
-    },
-    {  
-        id:32,
-        src: "photos/p37.jpg",
-        where:"Qingdao",
-        year:2019,
-        month:7,
-        title:"Cultural Revolution Collection",
         description:""
     },
     {  
