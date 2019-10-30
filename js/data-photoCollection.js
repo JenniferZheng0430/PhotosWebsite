@@ -36,15 +36,16 @@ var selectivePhoto = [
         title:"feeble street lamp ",
         description:""
     },
-    {  
-        id:53,
-        src: "photos/pic6.jpg",
-        where:"Jiuqu River",
-        year:2016,
-        month:7,
-        title:"Farewell",
+    {
+        id:1,
+        src: "photos/p1.jpg",
+        where:"Deyang",
+        year:2019,
+        month:1,
+        title:"My Mum",
         description:""
     },
+    
     {  
         id:54,
         src: "photos/pic7.jpg",
@@ -72,13 +73,13 @@ var selectivePhoto = [
         title:"Old Fishman",
         description:""
     },
-    {
-        id:1,
-        src: "photos/p1.jpg",
-        where:"Deyang",
-        year:2019,
-        month:1,
-        title:"My Mum",
+    {  
+        id:53,
+        src: "photos/pic6.jpg",
+        where:"Jiuqu River",
+        year:2016,
+        month:7,
+        title:"Farewell",
         description:""
     },
     {   
@@ -91,14 +92,15 @@ var selectivePhoto = [
         description:""
     },
     {  
-        id:3,
-        src: "photos/p3.jpg",
-        where:"Minnesota",
+        id:10,
+        src: "photos/p10.jpg",
+        where:"Deyang",
         year:2018,
-        month:7,
-        title:"Baseball Game",
+        month:4,
+        title:"twisted trees",
         description:""
     },
+   
     {  
         id:9,
         src: "photos/p9.jpg",
@@ -109,12 +111,12 @@ var selectivePhoto = [
         description:""
     },
     {  
-        id:10,
-        src: "photos/p10.jpg",
-        where:"Deyang",
+        id:3,
+        src: "photos/p3.jpg",
+        where:"Minnesota",
         year:2018,
-        month:4,
-        title:"twisted trees",
+        month:7,
+        title:"Baseball Game",
         description:""
     },
     {  
@@ -136,23 +138,25 @@ var selectivePhoto = [
         description:""
     },
     {  
-        id:15,
-        src: "photos/p15.jpg",
-        where:"Qingdao",
+        id:39,
+        src: "photos/p45.jpeg",
+        where:"Train Station",
         year:2019,
-        month:7,
-        title:"light rain",
+        month:4,
+        title:"Lonely Man",
         description:""
     },
+    
     {  
-        id:16,
-        src: "photos/p16.jpg",
-        where:"Deyang",
-        year:2017,
-        month:3,
-        title:"See sunrise through glass",
+        id:21,
+        src: "photos/p21.jpg",
+        where:"Tibet",
+        year:2016,
+        month:7,
+        title:"Sunrise",
         description:""
     },
+  
     {  
         id:18,
         src: "photos/p18.jpg",
@@ -181,12 +185,12 @@ var selectivePhoto = [
         description:""
     },
     {  
-        id:21,
-        src: "photos/p21.jpg",
-        where:"Tibet",
-        year:2016,
-        month:7,
-        title:"Sunrise",
+        id:16,
+        src: "photos/p16.jpg",
+        where:"Deyang",
+        year:2017,
+        month:3,
+        title:"See sunrise through glass",
         description:""
     },
     {  
@@ -253,21 +257,22 @@ var selectivePhoto = [
         description:""
     },
     {  
-        id:37,
-        src: "photos/p43.jpeg",
+        id:46,
+        src: "photos/p52.jpeg",
         where:"Deyang",
-        year:2019,
-        month:8,
-        title:"Old Woman",
+        year:2017,
+        month:4,
+        title:"Fishing man",
         description:""
     },
+   
     {  
-        id:39,
-        src: "photos/p45.jpeg",
-        where:"Train Station",
+        id:15,
+        src: "photos/p15.jpg",
+        where:"Qingdao",
         year:2019,
-        month:4,
-        title:"Lonely Man",
+        month:7,
+        title:"light rain",
         description:""
     },
     {  
@@ -298,12 +303,12 @@ var selectivePhoto = [
         description:""
     },
     {  
-        id:46,
-        src: "photos/p52.jpeg",
+        id:37,
+        src: "photos/p43.jpeg",
         where:"Deyang",
-        year:2017,
-        month:4,
-        title:"Fishing man",
+        year:2019,
+        month:8,
+        title:"Old Woman",
         description:""
     },
      ]
